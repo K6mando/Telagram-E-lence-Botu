@@ -1,7 +1,7 @@
 {
   "name": "Tg Eğlence Bot",
   "description": "Pyrogram İle Yazılmış Bir Eğlence Botu",
-  "repository": "https://github.com/amahocam/Telagram-E-lence-Botu",
+  "repository": "https://github.com/K6mando/Telagram-E-lence-Botu",
   "logo": "https://telegra.ph/file/74b394a39af1214e4089e.jpg",
   "keywords": ["telegram", "game", "pyrogram","telegram bot"],
   "env": {
